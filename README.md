@@ -62,7 +62,7 @@ lib/
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/harshitsagar/daily_health_tracker.git
+   git clone https://github.com/harshitsagar/instagram_feed_clone.git
 
 2. **Install dependencies**
    ```bash
